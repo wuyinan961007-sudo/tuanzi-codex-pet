@@ -23,7 +23,7 @@ Personal use is allowed.
 
 Screenshots and videos are allowed with credit.
 
-Please credit the author as: W / wu yinan
+Please credit the author as: W
 
 ## Restrictions
 
