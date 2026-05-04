@@ -1,0 +1,6 @@
+{
+  "id": "tuanzi",
+  "displayName": "Tuanzi",
+  "description": "A monochrome rounded Codex pet based exactly on the supplied front and back reference.",
+  "spritesheetPath": "spritesheet.webp"
+}
